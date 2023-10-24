@@ -42,10 +42,10 @@
       ` git branch <branch_name> ` &nbsp; Create a new branch with the specified name.
 
 * Switch to a Branch:
-      `git checkout <branch_name> ` Switch to an existing branch.
+      `git checkout <branch_name> ` &nbsp;&nbsp; Switch to an existing branch.
 
 * Merge a Branch into the Current Branch:
-      ` git merge <branch_name> `  &nbsp; Merge changes from another branch into the current branch.
+      ` git merge <branch_name> ` &nbsp; &nbsp; Merge changes from another branch into the current branch.
 
 * List Branches:
       ` git branch `  &nbsp; List all branches in the repository.
