@@ -8,7 +8,7 @@
 *    You can also generate personal access tokens and use them as an alternative to passwords for authentication. These tokens can be revoked or limited in scope, making them
       more secure for automated tasks.
 
-    ## Two-Factor Authentication (2FA):## 
+## Two-Factor Authentication (2FA):## 
 
 * Users can enable 2FA to add an additional layer of security to their GitHub accounts. This typically involves receiving a one-time code on a mobile device or via an 
   authentication app.
