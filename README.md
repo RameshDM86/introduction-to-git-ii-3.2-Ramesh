@@ -21,25 +21,25 @@
 ## Update the Readme file to contain least 15 github commands and what are the usage of them? ## 
 
  * Initialize a New Git Repository:
-         ` git init ` &nbsp;  This command initializes a new Git repository in the current directory.
+         ` git init ` &nbsp; &nbsp; This command initializes a new Git repository in the current directory.
 
  * Check Status of Your Repository:
-           ` git status`   &nbsp; It shows the status of changes in your repository, including untracked, modified, and staged files.
+           ` git status`   &nbsp; &nbsp; It shows the status of changes in your repository, including untracked, modified, and staged files.
 
  * Add Changes to Staging Area:
-       `git add <file_name> ` &nbsp; Add changes from your working directory to the staging area to prepare for a commit.
+       `git add <file_name> ` &nbsp; &nbsp; Add changes from your working directory to the staging area to prepare for a commit.
 
 *  Commit Changes:
-      ` git commit -m "Your commit message" ` &nbsp; Create a new commit with changes from the staging area along with a descriptive message.
+      ` git commit -m "Your commit message" ` &nbsp; &nbsp; Create a new commit with changes from the staging area along with a descriptive message.
 
 * Pull Changes from a Remote Repository:
-      ` git pull ` &nbsp; Fetch and merge changes from a remote repository into your local branch.
+      ` git pull ` &nbsp; &nbsp; Fetch and merge changes from a remote repository into your local branch.
 
 * Push Changes to a Remote Repository:
-      ` git push `  &nbsp;  Push your local commits to a remote repository.
+      ` git push `  &nbsp; &nbsp;  Push your local commits to a remote repository.
 
 * Create a New Branch:
-      ` git branch <branch_name> ` &nbsp; Create a new branch with the specified name.
+      ` git branch <branch_name> ` &nbsp;&nbsp; Create a new branch with the specified name.
 
 * Switch to a Branch:
       `git checkout <branch_name> ` &nbsp;&nbsp; Switch to an existing branch.
@@ -48,19 +48,19 @@
       ` git merge <branch_name> ` &nbsp; &nbsp; Merge changes from another branch into the current branch.
 
 * List Branches:
-      ` git branch `  &nbsp; List all branches in the repository.
+      ` git branch `  &nbsp;&nbsp;  List all branches in the repository.
 
 * Delete a Branch:
-      ` git branch -d <branch_name> ` &nbsp; Delete a branch if it has been merged into the current branch.
+      ` git branch -d <branch_name> ` &nbsp;&nbsp;  Delete a branch if it has been merged into the current branch.
 
 * Fetch Changes from a Remote Repository:
-      ` git fetch `  &nbsp; Fetch changes from a remote repository without merging.
+      ` git fetch `  &nbsp;&nbsp; Fetch changes from a remote repository without merging.
 
 * Set your Git username:
-      `git config --global user.name "Your Name" ` &nbsp; Configure your Git username.
+      `git config --global user.name "Your Name" ` &nbsp;&nbsp; Configure your Git username.
 
 * Set your Git email:
-      ` git config --global user.email "your@email.com" `  Configure your Git email address for commits.
+      ` git config --global user.email "your@email.com" ` &nbsp;&nbsp; Configure your Git email address for commits.
 
 
 ## 4 Github commands that you think you will use the most in the real project and why? Explain it on the readme file ##
