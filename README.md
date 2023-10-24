@@ -21,8 +21,8 @@
 
 # 4 Github commands that you think you will use the most in the real project and why? Explain it on the readme file # 
 
-   + git status
-   + git add main.tf
-   + git status
-   + git commit -m "adds main.tf" IE
-   + git push
+ + git status
+ + git add main.tf
+ + git status
+ + git commit -m "adds main.tf" IE
+ + git push
