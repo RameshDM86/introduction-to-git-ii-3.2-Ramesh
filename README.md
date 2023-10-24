@@ -10,9 +10,10 @@
 
     ## Two-Factor Authentication (2FA):## 
 
-Users can enable 2FA to add an additional layer of security to their GitHub accounts. This typically involves receiving a one-time code on a mobile device or via an authentication app.
+* Users can enable 2FA to add an additional layer of security to their GitHub accounts. This typically involves receiving a one-time code on a mobile device or via an 
+  authentication app.
 
 
 ## SSH Key Authentication: ## 
 
-SSH keys can be added to a user's GitHub account for authentication. This is a secure method often preferred for automated workflows and code deployments.
+* SSH keys can be added to a user's GitHub account for authentication. This is a secure method often preferred for automated workflows and code deployments.
