@@ -73,3 +73,5 @@
  + git status
  + git commit -m "adds main.tf" IE
  + git push
+
+* The reason i feel that these commands are mostly use is this creates projects. Without Projectes create there would be no reson for ` Git Pull ` 'Git Merge" 
