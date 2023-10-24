@@ -21,8 +21,10 @@
 ## Update the Readme file to contain least 15 github commands and what are the usage of them? ## 
 
  * Initialize a New Git Repository:
+   ` git init ` &nbsp  This command initializes a new Git repository in the current directory.
 
-   ` git init `
+ * Check Status of Your Repository:
+    ` git status`   &nbsp It shows the status of changes in your repository, including untracked, modified, and staged files.
 
 
 
