@@ -42,7 +42,7 @@
       ` git branch <branch_name> ` &nbsp;&nbsp; Create a new branch with the specified name.
   
 * Delete a Branch
-   ` git branch -d <branch_name> ` &nbsp;&nbsp; Delete a Banch   
+   ` git branch -d <branch_name> ` &nbsp;&nbsp; Delete a Branch   
 
 * Switch to a Branch:
       `git checkout <branch_name> ` &nbsp;&nbsp; Switch to an existing branch.
