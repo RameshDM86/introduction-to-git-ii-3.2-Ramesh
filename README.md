@@ -1,4 +1,4 @@
-# Introduction-to-git-ii-3.2-Ramesh
+# My Understanding of GIT -3.2-Ramesh #
 
 + **GitHub authentication** refers to the process of verifying the identity of users and applications accessing GitHub services and repositories. It is essential for maintaining  the security and integrity of code and other resources hosted on GitHub. GitHub offers several methods for authentication, depending on the type of user or application   and the level of access required. Here are some common authentication methods used on GitHub:
 
@@ -19,7 +19,7 @@
 * SSH keys can be added to a user's GitHub account for authentication. This is a secure method often preferred for automated workflows and code deployments.
 
 
-# 4 Github commands that you think you will use the most in the real project and why? Explain it on the readme file # 
+## 4 Github commands that you think you will use the most in the real project and why? Explain it on the readme file ##
 
  + git status
  + git add main.tf
