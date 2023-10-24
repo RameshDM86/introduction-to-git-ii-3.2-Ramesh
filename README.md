@@ -18,6 +18,15 @@
 
 * SSH keys can be added to a user's GitHub account for authentication. This is a secure method often preferred for automated workflows and code deployments.
 
+## Update the Readme file to contain least 15 github commands and what are the usage of them? ## 
+
+ * Initialize a New Git Repository:
+
+   ` git init `
+
+
+
+
 
 ## 4 Github commands that you think you will use the most in the real project and why? Explain it on the readme file ##
 
